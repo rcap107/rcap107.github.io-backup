@@ -40,7 +40,7 @@ GEM
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
-      kramdown (~> 2.0)
+      kramdown (~> 2.3.1)
     liquid (4.0.3)
     listen (3.4.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -76,6 +76,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  kramdown (~>2.3.1)
 
 BUNDLED WITH
    2.2.4
