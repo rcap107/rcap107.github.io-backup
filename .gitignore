@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+/.idea/modules.xml
+/.idea/rcap107.github.io.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
